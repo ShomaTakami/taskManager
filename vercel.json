@@ -17,7 +17,7 @@
         }
     ],
     "env": {
-        "APP_NAME": "Task Manager",
+        "APP_NAME": "Laravel",
         "APP_DEBUG": "true",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
